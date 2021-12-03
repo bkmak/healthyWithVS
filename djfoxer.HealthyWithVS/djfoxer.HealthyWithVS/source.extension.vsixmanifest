@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="djfoxer.HealthyWithVS.789A1782-7617-40D6-BBA6-9AEA95C9DDBD" Version="0.6" Language="en-US" Publisher="bkmak" />
+        <Identity Id="bkmak.HealthyWithVS.789A1782-7617-40D6-BBA6-9AEA95C9DDBD" Version="0.6" Language="en-US" Publisher="bkmak" />
         <DisplayName>Healthy With VS 2022</DisplayName>
         <Description xml:space="preserve">Make tasks with Pomodoro Technique Timer and workout when breaks come. Extension add Pomodoro Timer on Visual Studio status bar and show full screen exercises when break begin.</Description>
         <Icon>Resources\ico.png</Icon>
